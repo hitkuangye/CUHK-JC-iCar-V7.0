@@ -1,9 +1,10 @@
 {
     "name": "CUHK-JC-iCar",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "neopixel": "github:lzty634158/pxt-neopixel"
     },
     "files": [
         "README.md",
