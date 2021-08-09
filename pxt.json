@@ -16,7 +16,10 @@
         "shims.d.ts",
         "enums.d.ts",
         "main.ts",
-        "BitIR.ts"
+        "BitIR.ts",
+        "ReceiverIR.cpp",
+        "ReceiverIR.h",
+        "RemoteIR.h"
     ],
     "testFiles": [
         "test.ts"
