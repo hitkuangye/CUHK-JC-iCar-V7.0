@@ -19,7 +19,8 @@
         "BitIR.ts",
         "ReceiverIR.cpp",
         "ReceiverIR.h",
-        "RemoteIR.h"
+        "RemoteIR.h",
+        "Bit_IR.cpp"
     ],
     "testFiles": [
         "test.ts"
