@@ -39,25 +39,5 @@
         "command": "pxt serial",
         "group": "test",
         "problemMatcher": [ "$tsc" ]
-    }, {
-        "taskName": "deploy",
-        "isBuildCommand": true,
-        "problemMatcher": "$tsc",
-        "args": [""]
-    }, {
-        "taskName": "build",
-        "isTestCommand": true,
-        "problemMatcher": "$tsc",
-        "args": [""]
-    }, {
-        "taskName": "clean",
-        "isTestCommand": true,
-        "problemMatcher": "$tsc",
-        "args": [""]
-    }, {
-        "taskName": "serial",
-        "isTestCommand": true,
-        "problemMatcher": "$tsc",
-        "args": [""]
     }]
 }
